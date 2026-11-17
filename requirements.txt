@@ -1,0 +1,5 @@
+imageio-ffmpeg
+tkinterdnd2
+pyinstaller
+# 以下はテスト (tests/editor_test.py・tests/make_screenshots.py の画面の画像) にだけ使う
+pillow
