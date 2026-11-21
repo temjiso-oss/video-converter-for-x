@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+build/
+dist/
+files/
+tests/work/
+*.spec
+*.part.mp4
+# 変換した動画・テスト用の動画を誤って入れないように
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+*.mpg
+*.gif
+*.wav
